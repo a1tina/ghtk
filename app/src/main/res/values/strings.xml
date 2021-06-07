@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ghtk</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="tao_don">Tạo đơn</string>
+    <string name="don_hang">Đơn hàng</string>
+    <string name="tien_hang">Tiền hàng</string>
+    <string name="cskh">CSKH</string>
+    <string name="doanh_thu">Doanh thu</string>
+    <string name="kho_hang">Kho hàng</string>
+    <string name="hoa_hong">Hoa hồng</string>
+    <string name="lien_he">Liên hệ</string>
+
+
+    <string name="diem_thuong">Điểm thưởng</string>
+    <string name="tai_khoan">Tài khoản</string>
+    <string name="sign_in_multi">Sign in with Google, Facebook or Twitter</string>
+    <string name="sign_in_w_google">Sign in with Google</string>
+    <string name="about">18520944 - App Logistic</string>
+
+    <string name="giamgia50_lientinh">Giảm giá 50% khi giao hàng liên tỉnh</string>
+    <string name="uudai77">Ưu đãi đặc biệt nhân dịp 7/7</string>
+    <string name="mienphi_khmoi">Miễn phí giao hàng cho khách hàng mới</string>
+    <string name="freeship_99k">Phí giao hàng 0 đồng cho đơn từ 99k</string>
+</resources>
